@@ -102,3 +102,70 @@ Final-year BBA LL.B. (Hons) student at SASTRA Deemed University diverging toward
 </ul>
 
 </div>
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #ffffff;
+    padding: 40px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 5px;
+    color: #1a1a1a;
+}
+
+.tagline {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.contact {
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+h2 {
+    border-bottom: 2px solid #2c3e50;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    color: #2c3e50;
+}
+
+h3 {
+    margin-bottom: 5px;
+    color: #34495e;
+}
+
+.duration {
+    font-size: 14px;
+    color: #777;
+    margin-top: 0;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 6px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+}
